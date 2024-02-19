@@ -26,7 +26,7 @@
             Console.WriteLine("");
 
             Console.WriteLine("Ale efekt taki sam. To jaki jest cel stosowania tej konstrukcji poza tym, że sobie pokodowałem :-)");
-            Console.WriteLine("");
+            Console.WriteLine(" ");
 
         }
     }
